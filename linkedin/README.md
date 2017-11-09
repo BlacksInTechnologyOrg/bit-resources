@@ -1,4 +1,4 @@
-|Screen Name |https://www.linked In Profile URL
+|Screen Name |Linked In Profile URL
 |:------------------|:--------------------------------------
 |Alisha|https://wwww.linkedin.com/in/alishacjohnson
 |Alphonso Sensley II|http://linkedin.com/in/alphonsosensleyjr
