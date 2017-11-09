@@ -1,5 +1,5 @@
 |Screen Name |Linked In Profile URL
-|:------------------|:--------------------------------------|:-----
+|:------------------|:--------------------------------------
 |Alisha|https://wwww.linkedin.com/in/alishacjohnson
 |Alphonso Sensley II|http://linkedin.com/in/alphonsosensleyjr
 |Anissat|https://linkedin.com/in/anissat
