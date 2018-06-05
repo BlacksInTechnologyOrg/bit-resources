@@ -17,6 +17,7 @@
 |Doug|https://www.linkedin.com/in/douglasmasonjr/
 |Elvee|https://www.linkedin.com/in/lbonnard/
 |Fredlwal|https://www.linkedin.com/in/frederickwalker1/
+|Gt50|https://www.linkedin.com/in/shawnqjackson/
 |Ingrid|https://www.linkedin.com/in/ingrid-hawkins-mba-49347730/
 |J.R.|https://www.linkedin.com/in/jasonlrussell/
 |JasBerry|https://www.linkedin.com/in/jasmineberry/
