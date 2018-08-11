@@ -3,6 +3,6 @@ Ever evolving list of resources  provided by the BIT community.
 
 
 
-{% for page in site.pages %}
-## {{page.title}}
+{% for item in site.pages %}
+## {{item.title}}
 {% endfor %}
