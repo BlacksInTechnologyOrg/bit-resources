@@ -1,14 +1,16 @@
 # Graphic Design
 A list of resources helpful for the person just starting (or kick starting)  down a design path
 
-# UX:
+>*"I find that when people say they want to keep it ‘clean,’ more often than not they’re just a little afraid of taking a chance." - [Gail Anderson](https://www.gailycurl.com/)*
+
+## UX:
 * http://uxmyths.com/
 * https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows  
 * https://designshack.net/category/articles/critique-articles/
 * https://www.useronboard.com/onboarding-teardowns/
 * https://www.smashingmagazine.com/2014/12/design-principles-visual-weight-direction/
 
-# HTML/CSS fundamentals and responsive design:
+## HTML/CSS fundamentals and responsive design:
 * https://codepen.io/mi-lee/post/an-overview-of-html5-semantics
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 * http://tympanus.net/codrops/css_reference
@@ -21,7 +23,7 @@ A list of resources helpful for the person just starting (or kick starting)  dow
 * https://bradfrost.github.io/this-is-responsive/patterns.html
 * http://bradfrost.com/demo/ish/
 
-# Typography:
+## Typography:
 * http://fontpair.co/
 * https://femmebot.github.io/google-type/
 * http://www.typogui.de/
@@ -29,12 +31,12 @@ A list of resources helpful for the person just starting (or kick starting)  dow
 * https://www.typewolf.com
 * http://practicaltypography.com/typography-in-ten-minutes.html
 
-# Color, Gestalt, and Imagery:
+## Color, Gestalt, and Imagery:
 * https://material.io/color/
 * https://coolors.co/app
 * https://css-tricks.com/nerds-guide-color-web/
 * https://material.google.com/style/color.html
-* https://material.google.com/style/imagery.html#imagery-principles
+* https://material.google.com/style/imagery.html##imagery-principles
 * https://www.smashingmagazine.com/2014/09/design-principles-connecting-and-separating-elements-through-contrast-and-similarity/
 * https://color.adobe.com/create/color-wheel/
 * http://javier.xyz/cohesive-colors/
@@ -42,7 +44,7 @@ A list of resources helpful for the person just starting (or kick starting)  dow
 * http://webaim.org/resources/contrastchecker/
 * http://www.colourco.de/
 
-# Inspiration:
+## Inspiration:
 * http://uxarchive.com/
 * http://land-book.com/
 * http://niceportfol.io/

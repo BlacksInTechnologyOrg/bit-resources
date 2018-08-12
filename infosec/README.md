@@ -1,6 +1,8 @@
-# How To Get Started In Cyber Security
+# Cyber Security
 
-### OS
+>*"The father of application security is Bob Abbott"*  - Andrew van der Stock in reference to [Bob Abbott](https://www.acsac.org/acsa/memoriam/abbott.pdf) 
+
+## OS
   - Linux
     - kaliOS
   - Windows
@@ -8,30 +10,30 @@
   - Python
   - Bash
   - Powershell
-### Networking
+## Networking
   - TCP/IP
   - Firewalls/Access Control
   - OSI Model -https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017
-### Certifications
+## Certifications
   - Security+
   - CEH
   - CISSP
   - CHFI
-### Books
+## Books
   - Linux Shell Scripting - https://www.amazon.com/Linux-Shell-Scripting-Cookbook-Second/dp/1782162747
   - Learn Python The Hard Way (Also, is free online) - https://learnpythonthehardway.org/
-### Tools (most are in Kali Linux but some are cross platform)
+## Tools (most are in Kali Linux but some are cross platform)
   - Wireshark
   - Nessus
   - Netcat
   - Tcpdump
   - Sysinternal
-### Web sites
+## Web sites
   - https://www.infosecindustry.com/ - Latest News on Security Events
   - http://www.professormesser.com/ - Training/Quizzes for Network+, Security+
   - https://www.sans.org
   - https://www.cybrary.it/ - FREE Online Cyber Security training
-### Job titles
+## Job titles
   - Security Engineer
   - Security Analyst
   - Information Security Analyst

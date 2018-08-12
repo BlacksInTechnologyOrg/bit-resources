@@ -1,6 +1,8 @@
 # Web Development
 
-### HTML Resources
+> *" An award-winning creative director, interdisciplinary artist, photographer, and 18-year veteran of the tech industry.  "* - [Sarah Huny Young](http://supremeclientele.co/) *I know... its not a quote but she is a very dope web developer!*
+
+## HTML Resources
 References
 
 - HTML Reference - http://htmlreference.io
@@ -10,7 +12,7 @@ References
 
 Tutorials 
 
-### CSS Resources
+## CSS Resources
 
 Tutorials/Games
 
@@ -20,28 +22,28 @@ Tutorials/Games
 - CSS Reference - https://cssreference.io
 - CSS Grid Layout Tutorial Videos - https://gridbyexample.com/video
 
-### JavaScript Resources
+## JavaScript Resources
 
 Introduction & Guides - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 Try jQuery - http://try.jquery.com/
 Javascript Is Sexy - http://javascriptissexy.com
 
 
-### Helpful Web Tools
+## Helpful Web Tools
 - caniuse? - https://caniuse.com - Determine if a web feature is available on a browser.
 - builtwith - https://builtwith.com - List the technologies used by a specific website.
 
 
-### Command Line Tutorials/Utilities
+## Command Line Tutorials/Utilities
 
 - Learn Enough Command Line To Be Dangerous - https://www.learnenough.com/command-line-tutorial
 - TLDR.sh - http://tldr.sh/
 
-### Miscellaneous Resource
+## Miscellaneous Resource
 - Try Git - https://www.codeschool.com/courses/try-git
 - Discover Devtools - https://www.codeschool.com/courses/discover-devtools
 
-### Git Tools
+## Git Tools
 - Pushing to Git from the Command Line - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 - Gitready - http://gitready.com
 - Pro Git - https://git-scm.com/book/en/v2
