@@ -40,6 +40,7 @@
 |Romie|https://www.linkedin.com/in/romie-zelaya
 |S5fifty|https://www.linkedin.com/in/richard-wilkins-4483b5128
 |Sacha|https://www.linkedin.com/in/sachathompson/
+|Gt50|https://www.linkedin.com/in/shawnqjackson/
 |Sherad Louis-Charles|https://www.linkedin.com/in/slouischarles/
 |Sistatech|https://www.linkedin.com/in/jocelynsteele
 |Taron foxworth|https://www.linkedin.com/in/taronfoxworth/
